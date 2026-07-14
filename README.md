@@ -41,8 +41,6 @@ Alternatively, serve it from a simple static server (useful for some browsers' s
 ## Contributing
 Contributions, bug reports, and suggestions are welcome. Open an issue or submit a pull request with improvements (UI, accessibility, new features).
 
-## License
-Add a LICENSE file to indicate licensing (e.g., MIT). If unsure, consider MIT for permissive use.
 
 ## Author
 NikkiKumari32 — it23.nikki.kumari@stcet.ac.in
